@@ -50,7 +50,7 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
-nosetests.xml
+nosetests.xml • Draft 
 coverage.xml
 *.cover
 *.py,cover
@@ -202,7 +202,7 @@ jspm_packages/
 
 # parcel-bundler cache (https://parceljs.org/)
 .parcel-cache
-
+ • Draft 
 # Next.js build output
 .next
 out
